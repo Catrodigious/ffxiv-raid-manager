@@ -1,0 +1,48 @@
+{
+    "tanks": [
+      {
+        "name": "Runa",
+        "class": "GNB",
+        "alternate_classes": ["WAR"]
+      },
+      {
+        "name": "Tim",
+        "class": "PLD",
+        "alternate_classes": []
+      }
+    ],
+    "healers": [
+      {
+        "name": "Nathavin Resande",
+        "class": "SGE",
+        "alternate_classes": []
+      },
+      {
+        "name": "JCloud",
+        "class": "AST",
+        "alternate_classes": []
+      }
+    ],
+    "dps": [
+      {
+        "name": "Goopy Pants",
+        "class": "RPR",
+        "alternate_classes": []
+      },
+      {
+        "name": "Ebarin Resande",
+        "class": "SMN",
+        "alternate_classes": ["DNC"]
+      },
+      {
+        "name": "Zim Xander",
+        "class": "MCH",
+        "alternate_classes": ["WHM"]
+      },
+      {
+        "name": "Woody",
+        "class": "DRG",
+        "alternate_classes": []
+      }
+    ]
+}
