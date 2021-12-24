@@ -1,0 +1,14 @@
+.col-box {
+  padding: 5px;
+}
+
+.calendar-box {
+  text-align: center;
+  display: block;
+  margin-left: 50px;
+}
+
+.container-fluid{
+  padding-top: 10px;
+  padding-bottom: 50px;
+}
